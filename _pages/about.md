@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 This is Dr. Haodi Jiang homepage!
-
-Lorem ipsum.
