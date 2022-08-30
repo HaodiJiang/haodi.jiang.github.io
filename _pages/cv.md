@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Network Engineering, Southwest University, 2010
+* M.S. in Computer Engineering, Florida International University, 2014
+* Ph.D in Computer Science, New Jersey Insititute of Technology, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sam Houston State University, Department of Computer Science, Huntsville, TX  
+  * Assistant Professor, September 2022- present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* New Jersey Institute of Technology	, Department of Computer Science, Newark, NJ 
+  * Adjunct Professor, January 2022 – August 2022
+  * Research Assistant, July 2020 - December 2021
+  * Teaching Assistant, September 2015 – Jun 2020
+
+* Florida International University, School of Computing and Information Sciences, Miami, FL
+  * Graduate Research Student, Sep 2014 - May 2015 
 
 Publications
 ======
